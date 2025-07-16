@@ -18,27 +18,6 @@
 - 💡 Prior experience in **AI for learning systems**, **energy forecasting**, and **tech news summarization**
 - 👨‍💻 Open to SWE or research internships, collaborative builds, and ML-driven UI projects
 
----
-
-### 💼 Research & Industry Experience
-
-**🔬 ACM Research @ UTD**  
-> Developed generative models (VAE, VQGAN) using **TensorFlow, NumPy, Matplotlib** to synthesize rare astronomical images  
-> Trained models on Multimodal Universe dataset  
-
-**🧠 UTDesign-R Research**  
-> Processed 500+ student-drawn concept maps using **MATLAB & Graph Theory** for ANN training  
-> Contributed to partnership with startup **Cohort Science** for future nationwide education analytics  
-
-**💻 Frontend Developer – Cohort Science**  
-> Built a **React/Next.js** dashboard prototype for visualizing the ANN-driven academic insights  
-> Created modular **FilterSearch** component with **Chart.js**
-
-**🧪 AI Intern – Emergence AI**  
-> Evaluated **ChatGPT-3.5/4** data analysis skills using **OpenAI API + Python** on large datasets  
-> Identified model failure modes and improved prompt workflows
-
----
 
 ### 🛠 Tech Stack
 
