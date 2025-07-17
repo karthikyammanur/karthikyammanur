@@ -88,5 +88,3 @@
 </p>
 
 ---
-
-<p align="center"><b>Build Bold. Think Deep. Learn Relentlessly. 🚀</b></p>
