@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Karthik Yammanur 👋</h1>
+<h1 align="center"> I'm Karthik Yammanur 👋</h1>
 <p align="center">
   <em>Computer Engineering @ UT Dallas • Aspiring AI/ML Researcher</em>
 </p>
