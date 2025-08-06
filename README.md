@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Karthik+Yammanur+%F0%9F%91%8B;AI%2FML+Researcher+%26+Software+Engineer" alt="Typing SVG" />
-</div>
+  <## 🚀 About Me
 
+<table align="center">="https://readme-typing-svg.herokuapp.### 🗄️ Databases & Storage
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Vector_DB-4A90E2?style=for-the-badge&logo=vectorlogozone&logoColor=white&labelColor=1a1a1a" />
+</div>ra+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Karthik+Yammanur+%F0%9F%91%8B;AI%2FML+Researcher+%26+Software+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,12 +14,6 @@
   <img src="https://img.shields.io/badge/AI%2FML-Researcher-00D9FF?style=for-the-badge&logo=brain&logoColor=white&labelColor=1a1a1a"/>
   <img src="https://img.shields.io/badge/Open_to-Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a1a"/>
 </p>
-
-<div align="center">
-  <a href="https://karthikyammanur.me/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Portfolio Website"/>
-  </a>
-</div>
 
 <div align="center">
   <a href="mailto:karthikyam2006@gmail.com">
@@ -32,8 +29,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
   </a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## � About Me
 
@@ -72,24 +67,15 @@
 - 🤝 **Collaborative Projects**
 - 🎨 **ML-driven UI Innovations**
 
-### 🌐 Explore More
+### 🌐 Portfolio
 
-- 💼 **[View My Portfolio](https://karthikyammanur.me/)** - Complete showcase of projects & experience
-- 📄 **Resume & Project Details** available on my website
+- 💼 **[View My Complete Work](https://karthikyammanur.me/)**
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,matlab&theme=dark" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=Core+Programming+Languages" alt="Languages"/>
-</div>
+## 🛠️ Tech Stack
 
 ### 🧩 Programming Languages
 
@@ -103,8 +89,6 @@
 ### 📦 Frameworks & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,flask,fastapi,supabase&theme=dark" />
-  <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" />
@@ -117,8 +101,6 @@
 ### 🤖 AI/ML Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <br/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a" />
@@ -141,10 +123,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Innovative+Solutions+with+AI%2FML;Building+the+Future%2C+One+Project+at+a+Time;Visit+my+portfolio+for+detailed+case+studies!" alt="Projects"/>
-</div>
 
 <div align="center">
   <a href="https://karthikyammanur.me/" target="_blank">
@@ -255,13 +233,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikyammanur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true"/>
@@ -276,19 +248,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=karthikyammanur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
-### 🎯 Contribution Highlights
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Consistent+contributions+across+multiple+repositories;Building+innovative+AI%2FML+solutions;Passionate+about+open-source+development" alt="Contribution Stats"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🌟 Let's Connect & Collaborate!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Ready+to+build+the+future+together%3F;Let's+connect+and+create+something+amazing!;Always+open+to+new+opportunities+and+collaborations" alt="Connect"/>
-</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/karthik-yammanur">
@@ -303,10 +263,6 @@
   <a href="https://github.com/karthikyammanur">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
