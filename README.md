@@ -49,10 +49,11 @@
 
 ---
 
-### My GitHub Stats
-
+### Check out my website!!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikyammanur&show_icons=true&theme=radical&icon_color=ff0000" width="49%" />
+  <a href="https://karthikyammanur.me/" target="_blank">
+    <img src="portfolio.png" alt="Karthik Yammanur Portfolio" width="400">
+  </a>
 </p>
 
 ---
