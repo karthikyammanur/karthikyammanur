@@ -8,7 +8,14 @@
 </p>
 
 ---
+### Check out my website!!
+<p align="center">
+  <a href="https://karthikyammanur.me/" target="_blank">
+    <img src="portfolio.png" alt="Karthik Yammanur Portfolio" width="400">
+  </a>
+</p>
 
+---
 ### About Me
 
 - 🎓 Computer Engineering @ UT Dallas | Class of 2027
@@ -49,14 +56,7 @@
 
 ---
 
-### Check out my website!!
-<p align="center">
-  <a href="https://karthikyammanur.me/" target="_blank">
-    <img src="portfolio.png" alt="Karthik Yammanur Portfolio" width="400">
-  </a>
-</p>
 
----
 
 ### Connect With Me
 
