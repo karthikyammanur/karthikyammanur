@@ -56,8 +56,9 @@ I am a Computer Engineering undergraduate specializing in building scalable AI a
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=matlab&logoColor=white" />
 
 <br/>
 
@@ -72,7 +73,8 @@ I am a Computer Engineering undergraduate specializing in building scalable AI a
 <img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-555555?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-555555?style=for-the-badge&logo=chromadb&logoColor=white" />
 
 </div>
 
