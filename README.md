@@ -1,15 +1,33 @@
 <div align="center">
-  <h1>Karthik Yammanur</h1>
+  <h1>Karthik Sai Yammanur</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&cursorColor=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Computer+Engineering+%40+UT+Dallas;Building+AI-Powered+Systems;Full+Stack+%2B+Computer+Vision+Researcher" />
   </a>
 
+  <br />
+  <br />
+
   <p>
-    <a href="https://karthikyammanur.me/" target="_blank"><b>🌐 Portfolio</b></a> •
-    <a href="https://www.linkedin.com/in/karthik-yammanur/" target="_blank"><b>💼 LinkedIn</b></a> •
-    <a href="mailto:karthikyam2006@gmail.com"><b>📧 Email</b></a>
+    <a href="https://karthikyammanur.me/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/karthik-yammanur/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:karthikyam2006@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
+
+  <br />
+
+  <a href="https://karthikyammanur.me/" target="_blank">
+    <img src="portfolio.png" alt="Karthik Yammanur Portfolio" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);" />
+  </a>
+
 </div>
 
 <br />
