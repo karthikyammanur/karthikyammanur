@@ -2,8 +2,8 @@
   <h1>Karthik Sai Yammanur</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=750&lines=Computer+Engineering+%40+UT+Dallas;Building+AI-Powered+Systems;Full+Stack+%2B+Computer+Vision+Researcher" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=750&lines=Computer+Engineering+%40+UT+Dallas;Building+AI-Powered+Systems;Full+Stack+%2B+Computer+Vision+Researcher" alt="Typing SVG" />
+</a>
 
   <br />
   <br />
