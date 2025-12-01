@@ -24,7 +24,7 @@
 
   <br />
   
-  # Portfolio website
+  ## Portfolio website
   <a href="https://karthikyammanur.me/" target="_blank">
     <img src="portfolio.png" alt="Karthik Yammanur Portfolio" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);" />
   </a>
