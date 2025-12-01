@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Karthik Sai Yammanur</h1>
+  <h1>Karthik Yammanur</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=750&lines=computer+engineering+%40+ut+dallas;swe+intern+at+Manada+Technologies;hackathon+winner;building+full-stack+AI-powered+systems;undergraduate+AI+researcher" alt="Typing SVG" />
