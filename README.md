@@ -2,7 +2,7 @@
   <h1>Karthik Sai Yammanur</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&cursorColor=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Computer+Engineering+%40+UT+Dallas;Building+AI-Powered+Systems; Full+Stack+%2B+Computer+Vision+Researcher" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&cursorColor=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Computer+Engineering+%40+UT+Dallas;Building+AI-Powered+Systems;Full+Stack+%2B+Computer+Vision+Researcher" />
   </a>
 
   <br />
@@ -38,7 +38,7 @@ I am a Computer Engineering undergraduate specializing in building scalable AI a
 
 ---
 
-### 🏛️ Selected Work & Experience
+### 🏛️ Recent Projects & Experiences
 
 | Role / Project | Description & Impact | Tech Stack |
 | :--- | :--- | :--- |
