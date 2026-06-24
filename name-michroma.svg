@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="834.6825pt" height="89.1pt" viewBox="0 0 834.6825 89.1" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-24T16:50:45.036842</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 89.1 
+L 834.6825 89.1 
+L 834.6825 0 
+L 0 0 
+L 0 89.1 
+z
+" style="fill: none"/>
+  </g>
+  <g id="text_1">
+   <!-- karthik yammanur -->
+   <g style="fill: #ff1e1e" transform="translate(10.8 64.8) scale(0.72 -0.72)">
+    <defs>
+     <path id="Michroma-Regular-6b" d="M 419 0 
+L 419 4800 
+L 1019 4800 
+L 1019 2028 
+L 3409 3600 
+L 4319 3600 
+L 1778 1909 
+L 4419 0 
+L 3525 0 
+L 1019 1847 
+L 1019 0 
+L 419 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-61" d="M 2300 -69 
+Q 1653 -69 1233 -1 
+Q 813 66 608 294 
+Q 403 522 403 1003 
+Q 403 1494 595 1723 
+Q 788 1953 1205 2022 
+Q 1622 2091 2300 2091 
+Q 2850 2091 3222 2066 
+Q 3594 2041 3888 1978 
+Q 3881 2394 3831 2633 
+Q 3781 2872 3643 2987 
+Q 3506 3103 3242 3136 
+Q 2978 3169 2541 3169 
+Q 2041 3169 1758 3147 
+Q 1475 3125 1347 3069 
+Q 1219 3013 1186 2906 
+Q 1153 2800 1153 2631 
+L 553 2631 
+Q 553 2969 645 3175 
+Q 738 3381 959 3487 
+Q 1181 3594 1567 3631 
+Q 1953 3669 2541 3669 
+Q 3172 3669 3558 3587 
+Q 3944 3506 4145 3295 
+Q 4347 3084 4417 2706 
+Q 4488 2328 4488 1731 
+L 4488 0 
+L 3888 0 
+L 3888 247 
+Q 3781 134 3593 65 
+Q 3406 -3 3095 -36 
+Q 2784 -69 2300 -69 
+z
+M 2300 419 
+Q 2834 419 3153 431 
+Q 3472 444 3630 500 
+Q 3788 556 3838 681 
+Q 3888 806 3888 1031 
+L 3888 1584 
+L 2300 1603 
+Q 1878 1609 1620 1592 
+Q 1363 1575 1228 1517 
+Q 1094 1459 1048 1336 
+Q 1003 1213 1003 1003 
+Q 1003 800 1048 681 
+Q 1094 563 1228 506 
+Q 1363 450 1620 434 
+Q 1878 419 2300 419 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-72" d="M 463 0 
+L 463 3600 
+L 1063 3600 
+L 1063 3103 
+Q 1163 3263 1264 3369 
+Q 1366 3475 1530 3537 
+Q 1694 3600 1975 3626 
+Q 2256 3653 2716 3653 
+L 2716 3150 
+Q 2097 3150 1758 3106 
+Q 1419 3063 1272 2958 
+Q 1125 2853 1094 2668 
+Q 1063 2484 1063 2200 
+L 1063 0 
+L 463 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-74" d="M 2066 0 
+Q 1516 0 1184 111 
+Q 853 222 704 505 
+Q 556 788 556 1300 
+L 556 4584 
+L 1156 4584 
+L 1156 3600 
+L 3372 3600 
+L 3372 3106 
+L 1156 3106 
+L 1156 1300 
+Q 1156 950 1220 778 
+Q 1284 606 1479 553 
+Q 1675 500 2066 500 
+Q 2413 500 2611 522 
+Q 2809 544 2903 639 
+Q 2997 734 3022 953 
+Q 3047 1172 3047 1569 
+L 3578 1569 
+Q 3578 1050 3514 737 
+Q 3450 425 3286 265 
+Q 3122 106 2826 53 
+Q 2531 0 2066 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-68" d="M 413 0 
+L 413 4800 
+L 1013 4800 
+L 1013 3122 
+Q 1147 3303 1345 3425 
+Q 1544 3547 1876 3608 
+Q 2209 3669 2750 3669 
+Q 3456 3669 3864 3531 
+Q 4272 3394 4444 3041 
+Q 4616 2688 4616 2041 
+L 4616 0 
+L 4013 0 
+L 4013 2041 
+Q 4013 2409 3950 2634 
+Q 3888 2859 3736 2975 
+Q 3584 3091 3318 3130 
+Q 3053 3169 2644 3169 
+Q 2019 3169 1662 3066 
+Q 1306 2963 1159 2742 
+Q 1013 2522 1013 2169 
+L 1013 0 
+L 413 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-69" d="M 400 0 
+L 400 3400 
+L 1000 3400 
+L 1000 0 
+L 400 0 
+z
+M 400 4200 
+L 400 4800 
+L 1000 4800 
+L 1000 4200 
+L 400 4200 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-20" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-79" d="M 963 -1200 
+L 963 -700 
+Q 1284 -700 1495 -686 
+Q 1706 -672 1848 -608 
+Q 1991 -544 2105 -400 
+Q 2219 -256 2344 0 
+L 2144 0 
+L 144 3600 
+L 831 3600 
+L 2544 447 
+L 3984 3600 
+L 4688 3600 
+L 2863 -200 
+Q 2741 -453 2611 -640 
+Q 2481 -828 2286 -953 
+Q 2091 -1078 1775 -1139 
+Q 1459 -1200 963 -1200 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-6d" d="M 413 0 
+L 413 3600 
+L 1013 3600 
+L 1013 3153 
+Q 1147 3334 1334 3456 
+Q 1522 3578 1814 3639 
+Q 2106 3700 2563 3700 
+Q 3128 3700 3484 3547 
+Q 3841 3394 4009 3019 
+Q 4163 3256 4378 3407 
+Q 4594 3559 4920 3629 
+Q 5247 3700 5725 3700 
+Q 6294 3700 6650 3545 
+Q 7006 3391 7173 3019 
+Q 7341 2647 7341 2000 
+L 7341 0 
+L 6741 0 
+L 6741 2000 
+Q 6741 2494 6637 2751 
+Q 6534 3009 6295 3104 
+Q 6056 3200 5650 3200 
+Q 4853 3200 4514 2965 
+Q 4175 2731 4175 2200 
+L 4175 2203 
+Q 4178 2106 4178 2000 
+L 4178 0 
+L 3578 0 
+L 3578 2000 
+Q 3578 2494 3475 2751 
+Q 3372 3009 3133 3104 
+Q 2894 3200 2488 3200 
+Q 1691 3200 1352 2965 
+Q 1013 2731 1013 2200 
+L 1013 0 
+L 413 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-6e" d="M 413 0 
+L 413 3600 
+L 1013 3600 
+L 1013 3122 
+Q 1147 3303 1345 3425 
+Q 1544 3547 1876 3608 
+Q 2209 3669 2750 3669 
+Q 3456 3669 3864 3531 
+Q 4272 3394 4444 3041 
+Q 4616 2688 4616 2041 
+L 4616 0 
+L 4013 0 
+L 4013 2041 
+Q 4013 2409 3950 2634 
+Q 3888 2859 3736 2975 
+Q 3584 3091 3318 3130 
+Q 3053 3169 2644 3169 
+Q 2019 3169 1662 3066 
+Q 1306 2963 1159 2742 
+Q 1013 2522 1013 2169 
+L 1013 0 
+L 413 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Michroma-Regular-75" d="M 2250 -69 
+Q 1544 -69 1137 86 
+Q 731 241 559 605 
+Q 388 969 388 1600 
+L 388 3600 
+L 991 3600 
+L 991 1600 
+Q 991 1244 1048 1014 
+Q 1106 784 1253 657 
+Q 1400 531 1667 481 
+Q 1934 431 2356 431 
+Q 2981 431 3337 534 
+Q 3694 638 3842 858 
+Q 3991 1078 3991 1431 
+L 3991 3600 
+L 4591 3600 
+L 4591 0 
+L 3991 0 
+L 3991 478 
+Q 3859 297 3659 175 
+Q 3459 53 3125 -8 
+Q 2791 -69 2250 -69 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Michroma-Regular-6b"/>
+    <use xlink:href="#Michroma-Regular-61" transform="translate(69.042969 0)"/>
+    <use xlink:href="#Michroma-Regular-72" transform="translate(145.214844 0)"/>
+    <use xlink:href="#Michroma-Regular-74" transform="translate(193.359375 0)"/>
+    <use xlink:href="#Michroma-Regular-68" transform="translate(256.689453 0)"/>
+    <use xlink:href="#Michroma-Regular-69" transform="translate(334.960938 0)"/>
+    <use xlink:href="#Michroma-Regular-6b" transform="translate(356.835938 0)"/>
+    <use xlink:href="#Michroma-Regular-20" transform="translate(425.878906 0)"/>
+    <use xlink:href="#Michroma-Regular-79" transform="translate(454.296875 0)"/>
+    <use xlink:href="#Michroma-Regular-61" transform="translate(530.859375 0)"/>
+    <use xlink:href="#Michroma-Regular-6d" transform="translate(607.03125 0)"/>
+    <use xlink:href="#Michroma-Regular-6d" transform="translate(727.832031 0)"/>
+    <use xlink:href="#Michroma-Regular-61" transform="translate(848.632812 0)"/>
+    <use xlink:href="#Michroma-Regular-6e" transform="translate(924.804688 0)"/>
+    <use xlink:href="#Michroma-Regular-75" transform="translate(1002.978516 0)"/>
+    <use xlink:href="#Michroma-Regular-72" transform="translate(1081.152344 0)"/>
+   </g>
+  </g>
+ </g>
+</svg>
